@@ -6,7 +6,7 @@ import controllerImg from "../../Assets/Pro-Controller-Hands.avif"
 const Features = () => {
   return (
     <>
-      <div className="w-full  justify-center flex  ">
+      <div className="w-full  justify-center flex lg:px-40 ">
         <div className="flex flex-row w-full  bg-accent-gray rounded-xl bg-opacity-50">
           <div className="flex flex-col w-1/2 p-[32px] ">
             <div className="w-[200px] h-[53px] bg-red">

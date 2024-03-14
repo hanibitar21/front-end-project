@@ -2,7 +2,7 @@ import React from 'react';
 
 const Legal = () => {
   return (
-    <div className='flex justify-center items-center w-full h-full  mb-5'>
+    <div className='flex justify-center items-center w-full h-full  my-5'>
       <div className='text-xs text-gray-600'>
         <p>WARNING: If you have epilepsy or have had seizures or other unusual reactions to flashing lights or patterns, consult a doctor before playing video games. All users should read the Health and Safety<br></br> Information available in the system settings before using this software.</p>
         <br />
