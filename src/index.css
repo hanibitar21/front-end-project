@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@media screen and (max-width: 1023px) {
+    
+    .nav-hide-or-view {
+      display: none;
+    }
+
+
+  }
+  @media screen and (max-width: 768px) {
+    
+    .nav-play-image-view {
+      display: none;
+    }
+
+
+  }
+  @media screen and (min-width: 1023px) {
+    
+    .nav-mobile-view {
+      display: none;
+    }
+    
+    
+  }
